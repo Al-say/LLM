@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "fc915e03dfb3645a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0282e82fc9cca314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ae35da5a5e6424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第1章：认识大模型/课时2：大模型的典型应用场景/课时2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "课时2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef26c894dc5279ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "67671c19f2019993",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "336772c8ac957328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "88fce162a53c06e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dde3187f10e61fd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b71f938c41a450fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3bb1dd90668748c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d7f34448b28b5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第1章：认识大模型/课时2：大模型的典型应用场景/课时2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "课时2 的反向链接列表"
+            }
+          },
+          {
+            "id": "6281f99e7f770f9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第1章：认识大模型/课时2：大模型的典型应用场景/课时2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "课时2 的出链列表"
+            }
+          },
+          {
+            "id": "92e8d924a20a8e26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3a847aca46532b42",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1fdb936f45becc50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第1章：认识大模型/课时2：大模型的典型应用场景/课时2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "课时2 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "19ae35da5a5e6424",
+  "lastOpenFiles": [
+    "第1章：认识大模型/课时1：认识大模型/课时1.md",
+    "第1章：认识大模型/课时2：大模型的典型应用场景/课时2.md"
+  ]
+}
